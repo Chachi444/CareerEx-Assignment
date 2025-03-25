@@ -1,6 +1,7 @@
 # CareerEx-Assignment
  HTML Beginner Assessment 
 
+# No CSS is required
 
 
 
